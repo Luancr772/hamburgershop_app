@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1924101320",
+    "project_id": "hamburger-5a879",
+    "storage_bucket": "hamburger-5a879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1924101320:android:f0133ddf0e1af12fb321fd",
+        "android_client_info": {
+          "package_name": "com.example.ham_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWO_cOm_WhoZsTbjfigdX1BZFsujZcgHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
